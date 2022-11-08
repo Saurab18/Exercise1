@@ -1,6 +1,6 @@
 # Session_1:
 
-## FizzBuzz
+## 1.FizzBuzz
 
 SOLUTION:
 
@@ -16,6 +16,6 @@ Step 5: Create An ELSE IF Statement For Multiples of 15
 
 Step 6: Create An ELSE Statement For Multiples of Neither 3 Nor 5
 
-## Number to Ordinal
+## 2.Number to Ordinal
 
 SOLUTION:
